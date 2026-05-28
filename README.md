@@ -3,7 +3,7 @@
 I'm an aspiring **Cloud Engineer** based in the **Greater Boston Area**, building hands-on experience with AWS and modern infrastructure tools.
 
 🎓 **Certifications**
-- CompTIA A+ (Core 1 ✅ | Core 2 in progress)
+- CompTIA A+
 - Cisco Certified Network Associate (CCNA)
 - AWS Cloud Practitioner (in progress)
 
