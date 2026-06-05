@@ -25,7 +25,7 @@ I'm an aspiring **Cloud Engineer** based in the **Greater Boston Area**, buildin
 
 📫 **Reach Me**
 - LinkedIn: https://www.linkedin.com/in/melih-cicen-a5ab40361/
-- Email: melih.kaya@gmail.com
+- Email: meliherencicen@gmail.com
 
 ---
 
